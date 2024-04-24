@@ -1,0 +1,7 @@
+TO INSTALL GIT IN LINUX MACHINE :
+command: yum install git -y
+yum : yellowdog updater modifier
+This is a package management tool in linux which is used to install, uninstall and update the
+tool
+To check git version : git --version
+To init a git : git init . 
