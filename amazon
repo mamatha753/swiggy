@@ -1,0 +1,7 @@
+To get history of a git : git log
+To get top 3 commits : git log -3
+To get only commit-ids and commit messages : git log --oneline
+To get only full commit-ids and commit messages : git log --pretty=oneline
+To get full commits of a single file : git log --follow --all filename
+To get history of a commit : git show commit
+To get history of a commit in stat format : git show commit --sta
